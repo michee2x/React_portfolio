@@ -36,25 +36,24 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Harris
+          Michael
           <br />
-          Johnsen
+          Israel
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Full stack Developer</h2>
         <span>
-          <a href="https://twitter.com/" target="_blank">
+          <a href="https://x.com/lifmic" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
           <a href="https://github.com/" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a href="https://www.linkedin.com/in/michael-israel-95b9692ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          Hi👋. I am a Mern-Stack developer as well as other web technologies with the zeal to develop top-notch web applications while possessing an intuition for UI/UX.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
