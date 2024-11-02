@@ -12,9 +12,9 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+          link="https://chat-x-s7at.onrender.com/"
+          h3="Chat_X"
+          p="A Social media platform"
         />
         <ProjectCard
           src={freshBurger}
