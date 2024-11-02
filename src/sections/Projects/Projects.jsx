@@ -11,7 +11,7 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
+          src="https://i.imgur.com/uiR4C4l.jpeg"
           link="https://chat-x-s7at.onrender.com/"
           h3="Chat_X"
           p="A Social media platform"
