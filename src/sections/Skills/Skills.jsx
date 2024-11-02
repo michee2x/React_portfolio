@@ -29,6 +29,8 @@ function Skills() {
         
        
         <SkillList src={checkMarkIcon} skill="Git" />
+
+<SkillList src={checkMarkIcon} skill="Mongodb" />
         
    
       </div>
